@@ -8,10 +8,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-## Tecnologia
+## TECNOLOGIA
 
-🧑‍💻 Lenguajes
+
 <div align="left">
+<h3 style="margin-bottom: 12px;">Lenguajes</h3>
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> 
@@ -20,9 +21,8 @@
 
 </div>
 
-🎨 Frontend
 <div align="left">
-
+<h3 style="margin-bottom: 12px;">Frontend</h3>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> 
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /> 
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue" /> 
@@ -34,9 +34,8 @@
 
 </div>
 
-⚙️ Backend
 <div align="left">
-
+<h3 style="margin-bottom: 12px;">Backend</h3>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> 
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" /> 
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" /> 
@@ -44,25 +43,18 @@
 
 </div>
 
-🗄️ Bases de datos
 <div align="left">
-
+<h3 style="margin-bottom: 12px;">Base de Datos</h3>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> 
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black" alt="Supabase" />
 
 </div>
 
-📚 Librerías
 <div align="left">
+<h3 style="margin-bottom: 12px;">Otros</h3>
 <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js" /> 
 <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
-
-</div>
-
-🛠️ Herramientas
-<div align="left">
-
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> 
@@ -71,7 +63,7 @@
 
 </div>
 
-## Contactame
+## CONTACTAME
 <div align="center">
 
 <a href="http://jhonnyrcodex.netlify.app/"> <img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> 
